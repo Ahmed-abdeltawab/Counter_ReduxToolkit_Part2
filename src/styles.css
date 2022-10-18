@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.incByVal {
+  display: flex;
+  gap: 10px;
+  margin: 10px auto;
+  width: 70%;
+}
